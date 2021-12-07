@@ -6,3 +6,8 @@
 **Step 4:** Now we need to install all the node packages. For this, on another terminal navigate inside btp_backend and then run ```bash npm i```<br />
 **Step 5:** After installation, we need to run ```bash expo start```<br />
 **Step 6:** Now on mobile, open expo app and scan the QR code displayed at the url on which expo started. 
+
+#### For further reference of packages, refer the below given links,
+https://reactnative.dev/  <br />
+https://ngrok.com/docs <br />
+https://www.django-rest-framework.org/  <br />
