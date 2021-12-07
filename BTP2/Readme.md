@@ -1,4 +1,4 @@
-## Steps to run this app.
+#### Steps to run this app
 
 **Step 1:** Clone this repository. <br />
 **Step 2:** On one terminal. Run ```bash ./ngrok http 8000 ```<br />
